@@ -1,0 +1,6 @@
+Product Type- Electronic, bbb, bbb, 2, 2.0, bbb, 2
+Product Type- Clothing, fff, fff, 5, 5.0, 5, fff
+Product Type- Clothing, h, h, 7, 7.0, 7, h
+Product Type- Clothing, ttt, tttt, 4, 4.0, 4, ttt
+Product Type- Electronic, www, www, 3, 3.0, www, 3
+Product Type- Electronic, yyy, yyy, 8, 8.0, yyy, 8
